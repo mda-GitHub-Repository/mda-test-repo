@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MDA-Web-App'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65B2ED9F43F845FC8B08A897F66E847B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7956CB1876524CB3B5F66E8A7E5001FD }}
